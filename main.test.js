@@ -1,10 +1,43 @@
 /******************
  * YOUR CODE HERE *
  ******************/
+let greeting = 'Hello';
+let sum = 0;
+let prod = 0;
+
+
+greet =(name) => {
+greeting = greeting + ' ' + name;
+};
 
 
 
+sumOfTwo =(num,num2) => {
+sum = num + num2;
+return sum;
+}
 
+multiply =(num1,num2,num3) => {
+prod = (num1 * num2) * num3;
+return prod;
+};
+
+
+sayHi =(name) => {
+return 'Hello' + ' ' + name + '!';
+};
+
+returnWhatISay = (say) => {
+return say;
+};
+
+divide = (num,num2) => {
+return num / num2;
+};
+
+remainder =(num,num2) => {
+return num % num2;
+};
 
 /*********************************************************************************************************************
 
