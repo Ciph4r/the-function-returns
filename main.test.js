@@ -7,19 +7,19 @@ let prod = 0;
 
 
 greet =(name) => {
-greeting = greeting + ' ' + name;
+greeting = 'Hello' + ' ' + name;
 };
 
 
 
 sumOfTwo =(num,num2) => {
 sum = num + num2;
-return sum;
+
 }
 
 multiply =(num1,num2,num3) => {
 prod = (num1 * num2) * num3;
-return prod;
+r
 };
 
 
