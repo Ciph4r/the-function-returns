@@ -19,7 +19,7 @@ sum = num + num2;
 
 multiply =(num1,num2,num3) => {
 prod = (num1 * num2) * num3;
-r
+
 };
 
 
